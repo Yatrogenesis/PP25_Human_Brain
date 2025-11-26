@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these papers, please cite as below."
+authors:
+  - family-names: "Molina Burgos"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0008-6093-8267"
+title: "PP25_Human_Brain: Scientific Papers and Publication Materials"
+version: 0.1.0
+date-released: 2025-11-26
+url: "https://github.com/Yatrogenesis/PP25_Human_Brain"
+repository-code: "https://github.com/Yatrogenesis/PP25_Human_Brain"
+license: CC-BY-4.0
+keywords:
+  - computational neuroscience
+  - whole-brain simulation
+  - GPU acceleration
+  - scientific publishing
+  - arXiv
+references:
+  - type: software
+    authors:
+      - family-names: "Molina Burgos"
+        given-names: "Francisco"
+    title: "HumanBrain: GPU-Accelerated Whole-Brain Simulator"
+    doi: "10.5281/zenodo.14280260"
+    url: "https://github.com/Yatrogenesis/HumanBrain"
+    version: "1.0.0"
