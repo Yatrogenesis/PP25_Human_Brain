@@ -22,6 +22,6 @@ references:
       - family-names: "Molina Burgos"
         given-names: "Francisco"
     title: "HumanBrain: GPU-Accelerated Whole-Brain Simulator"
-    doi: "10.5281/zenodo.14280260"
+    doi: "10.5281/zenodo.17720224"
     url: "https://github.com/Yatrogenesis/HumanBrain"
     version: "1.0.0"
