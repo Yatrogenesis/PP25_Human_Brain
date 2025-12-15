@@ -36,7 +36,7 @@ Publication roadmap and materials for **HumanBrain: GPU-Accelerated Whole-Brain 
 
 Source code: [github.com/Yatrogenesis/HumanBrain](https://github.com/Yatrogenesis/HumanBrain)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17720224.svg)](https://doi.org/10.5281/zenodo.17720224)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17720778.svg)](https://doi.org/10.5281/zenodo.17720778)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Yatrogenesis/HumanBrain/blob/master/LICENSE)
 
 ## arXiv Submission
